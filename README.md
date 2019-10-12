@@ -11,6 +11,7 @@ Organização do Campeonato de Game do IFS Socorro
   </li>
 </ul>
 
+
 <h2>Laboratório de Redes do Instituto Federal Campus Socorro</h2>
 <ul>
   <li> 
@@ -20,7 +21,7 @@ Organização do Campeonato de Game do IFS Socorro
    <li> 
     <span> <stroke>OBS NDI Plugin </stroke> - em todas as máquinas do laboratório  </span>
   </li>
-  
+    
   <li> 
     <span> <stroke>OBS Studio </stroke> para máquina central de para stremar o campeonato  </span>
   </li>
@@ -31,6 +32,16 @@ Organização do Campeonato de Game do IFS Socorro
 
 <h2>Ações necessárias</h2>
 <ul>
+
+  
+  <li> 
+    <span> <stroke>Stream será pelo Youtube</stroke> Utilizar o canal 5mTI para transmissão.  </span>
+  </li>
+
+  <li> 
+    <span> <stroke>Configurar o chat do youtube</stroke> para o chat aparecer ao vivo na transmissão https://chatv2.septapus.com/ </span>
+  </li>
+  
   <li> 
     <span> <stroke>Confecção da Logomarca</stroke> Criar a logomarca com base na Logo do TTAir</span>
   </li>
