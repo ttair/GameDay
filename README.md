@@ -4,7 +4,7 @@ Organização do Campeonato de Game do IFS Socorro
 <divider/>
 
 # Softwares Necessários 
-<h2>Canar de Comunicação será o Discord</h2>
+<h2>Criar de Comunicação será o Discord</h2>
 <ul>
   <li> 
     <span> <stroke>Integração do Discord com gitHub por meio de Webhooks </stroke> As alterações aqui estarão no Discord #gameplay-admin</span>
