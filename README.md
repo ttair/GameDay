@@ -127,3 +127,10 @@ Organização do Campeonato de Game do IFS Socorro
 <p style="font-weight: 400;">Estas regras podem ser alteradas, modificadas ou complementadas sem pr&eacute;vio aviso pela organiza&ccedil;&atilde;o do evento a fim de assegurar partidas justas e a integridade do evento.</p>
 </li>
 </ul>
+
+<ul>
+<li>
+<p style="font-weight: 400;"><strong>4.0.0 Termo de Concord&acirc;ncia</strong></p>
+<p style="font-weight: 400;">Ao se inscrever no torneio, a equipe est&aacute; inteiramente de acordo com as regras e dever&aacute; cumpri-las conforme foram determinadas pela organiza&ccedil;&atilde;o do torneio, sem direito a reclama&ccedil;&atilde;o futura.</p>
+</li>
+</ul>
