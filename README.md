@@ -120,3 +120,10 @@ Organização do Campeonato de Game do IFS Socorro
 <p>&nbsp;</p>
 </li>
 </ul>
+
+<ul>
+<li>
+<p style="font-weight: 400;"><strong>3.0.0 Altera&ccedil;&atilde;o de Regras</strong></p>
+<p style="font-weight: 400;">Estas regras podem ser alteradas, modificadas ou complementadas sem pr&eacute;vio aviso pela organiza&ccedil;&atilde;o do evento a fim de assegurar partidas justas e a integridade do evento.</p>
+</li>
+</ul>
